@@ -1,2 +1,5 @@
 # helper-goose
-Information utility reddit bot using the uwaterloo api 
+Utility Reddit bot that posts (hopefully) helpful comments based on information found using the UWaterloo Api. 
+
+This is a work in progress. 
+
